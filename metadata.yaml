@@ -1,0 +1,35 @@
+_repo: Letters-to-His-Friends_20560
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Robinson, Forbes
+    birthdate: 1867
+    deathdate: 1904
+    gutenberg_agent_id: '9386'
+    url: http://www.gutenberg.org/2009/agents/9386
+  editor:
+    agent_name: Robinson, Charles H. (Charles Henry)
+    alias: Robinson, Charles Henry
+    birthdate: 1861
+    deathdate: 1925
+    gutenberg_agent_id: '37272'
+    url: http://www.gutenberg.org/2009/agents/37272
+description: ''
+gutenberg_issued: '2007-02-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20560'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Clergy -- England -- Correspondence'
+- !lcsh 'Church of England -- Clergy -- Correspondence'
+- !lcsh 'Robinson, Forbes, 1867-1904 -- Correspondence'
+- !lcc 'BX'
+title: Letters to His Friends
+url: http://www.gutenberg.org/ebooks/20560
